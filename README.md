@@ -40,6 +40,10 @@ Waits for the client's response, which triggers the server's while loop.
 Prints the client's message.
 Reads input from the command line using stdIn.readLine().
 Sends the server's command-line input to the client using out.println.
+<img width="583" height="267" alt="oiinh" src="https://github.com/user-attachments/assets/0954777c-e80e-4007-9fe0-70c5907fa0e1" />
+
+
+
 
 Client Side
 
@@ -49,6 +53,11 @@ The while loop checks if the server sent \q; if so, it exits the loop and ends t
 Checks if the client entered something into the console using stdIn.
 If input is provided, sends the message to the server and ends the loop.
 This triggers the server's while loop, prompting a response.
+
+<img width="587" height="337" alt="fergs" src="https://github.com/user-attachments/assets/26f7c556-8e7c-4c55-ab12-a3375a14d9ce" />
+
+
+
 
 References
 
