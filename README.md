@@ -40,6 +40,8 @@ Waits for the client's response, which triggers the server's while loop.
 Prints the client's message.
 Reads input from the command line using stdIn.readLine().
 Sends the server's command-line input to the client using out.println.
+
+
 <img width="583" height="267" alt="oiinh" src="https://github.com/user-attachments/assets/0954777c-e80e-4007-9fe0-70c5907fa0e1" />
 
 
